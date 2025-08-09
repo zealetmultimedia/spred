@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "p2p-file-transfer": {
+      "signature": "a565db3075ce6e03f9baa3111aa2c19f",
+      "file": true
+    }
+  }
+}
